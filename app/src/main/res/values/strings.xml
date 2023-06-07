@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GroceryApp</string>
+    <string name="tvGroceryList">Grocery List</string>
+    <string name="tvAddGrocery">Add Grocery</string>
+    <string name="tvUpdateGrocery">Update Grocery</string>
+    <string name="btnBack">Back</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnClose">X</string>
+    <string name="edtItem">Enter Item...</string>
+    <string name="tvItem">Item</string>
+    <string name="edtAmount">Enter Amount...</string>
+    <string name="tvAmount">Amount</string>
+    <string name="btnAddItem">Add Item</string>
+    <string name="btnInsertItem">Add</string>
+    <string name="btnUpdate">Update</string>
+</resources>
